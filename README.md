@@ -33,7 +33,8 @@ def gcd():
 ```
 
 ## Output:
-![output](gcd.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/122199934/232199998-8c7f9559-983f-464e-b2ff-c61fb370cd0d.png)
+
 
 
 ## Result:
